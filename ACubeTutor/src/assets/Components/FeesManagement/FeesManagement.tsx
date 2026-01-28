@@ -5,7 +5,7 @@ const FeesManagement = () => {
     <>
      <DrawerMenu view='Fees Management'/>
     <div>
-      Addmision
+      Fees Management
     </div>
     </>
   )

@@ -5,7 +5,7 @@ const Statistics = () => {
     <>
      <DrawerMenu view='Statistics'/>
     <div>
-      Addmision
+      Statistics
     </div>
     </>
   )
